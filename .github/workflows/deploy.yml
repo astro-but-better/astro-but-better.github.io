@@ -1,0 +1,16 @@
+name: Deploy Astro site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: withastro/action@v2
+        with:
+          path: .
+          node-version: 18
+          deploy: true
