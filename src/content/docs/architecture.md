@@ -2,7 +2,7 @@
 title: "Architecture Overview"
 description: "A simple high-level explanation for technical readers."
 pubDate: 'Dec 06 2025'
-heroImage: '../../../public/hero.png'
+heroImage: '../../../public/hero2.png'
 ---
 
 Astro-TURF isn’t a plugin, a framework, or a theme.

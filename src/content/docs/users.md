@@ -2,7 +2,7 @@
 title: "Using Themes"
 description: "A simple guide for site owners and content authors."
 pubDate: 'Dec 06 2025'
-heroImage: '../../../public/hero.png'
+heroImage: '../../../public/hero4.png'
 ---
 
 Astro-TURF makes themes feel like real, swappable building blocks.

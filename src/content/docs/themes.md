@@ -2,7 +2,7 @@
 title: "Building Themes"
 description: "A high-level overview for theme developers."
 pubDate: 'Dec 06 2025'
-heroImage: '../../../public/hero.png'
+heroImage: '../../../public/hero3.png'
 ---
 
 If you want to design reusable Astro layouts, Astro-TURF gives you a stable, predictable structure to build on.
